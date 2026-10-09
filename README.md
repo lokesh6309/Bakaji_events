@@ -1,2 +1,2 @@
-# Bakaji_events
+# Bakali_events
 public reprositary
